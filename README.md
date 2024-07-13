@@ -12,21 +12,6 @@ Messenger Clone is a fully functional messaging app built using Flutter and Fire
 
 ![App Screenshot](https://github.com/LordKymzul/messenger-clone-flutter/blob/main/Messenger-Clone.png)
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#features">Features</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#system-design">System Design</a></li>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#contributions">Contributions</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#faq">FAQ</a></li>
-  </ol>
-</details>
-
 # Features 📱
 
 ### 1. Manage Friends 👥
@@ -53,21 +38,9 @@ Receive notifications for new messages and updates.
 ### 8. User Profiles 🧑
 Set display names, profile pictures, and status updates.
 
-# Built With
-
-This section lists major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgments section. Here are a few examples.
-
-* [![Flutter][Flutter]][Flutter-url]
-* [![Firebase][Firebase]][Firebase-url]
-* [![Cloud Firestore][Cloud-Firestore]][Cloud-Firestore-url]
-
 # System Design 🛠
 
 - **Frontend:** Flutter
 - **Backend:** Firebase (Cloud Firestore, Firebase Authentication, Firebase Storage)
 
-# Installation ⚙️
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/messenger-clone.git
