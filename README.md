@@ -10,7 +10,7 @@
 
 Messenger Clone is a fully functional messaging app built using Flutter and Firebase. This app is still in development, and we are open to any issues or feature requests.
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/air-selangor-e0ef1.appspot.com/o/project%2FMessenger-Clone.png?alt=media&token=7a02636f-dfa4-4092-a5ea-4999d46e9cde)
+![App Screenshot](https://github.com/LordKymzul/messenger-clone-flutter/blob/main/Messenger-Clone.png)
 
 <!-- TABLE OF CONTENTS -->
 <details>
