@@ -1,4 +1,4 @@
-# message_app
+# Messenger Clone - Flutter
 
 A new Flutter project.
 
